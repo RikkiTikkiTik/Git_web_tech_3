@@ -1,0 +1,39 @@
+html {
+    background-color: rgb(252, 238, 251);
+}
+p {
+    color:rgb(255, 0, 191);
+}
+h2 {
+    color: rgb(116, 109, 185);
+}
+a {
+    color: rgb(99, 5, 250);
+}
+.block {
+    width: 480px;
+    background-color: rgb(247, 200, 226);
+    border: 2px solid rgb(128, 119, 119);
+    padding: 20px 10px 20px 10px;
+    text-align: center;
+}
+.first_class {
+    background-color: azure;
+}
+.image {
+    width: 480px;
+}
+.section {
+    display: flex;
+    
+}
+.button {
+    width: 250px;
+    height: 50px;
+    background-color: azure;
+    margin: 10px;
+    cursor: pointer;
+}
+.button:hover {
+    background-color: aqua;
+}
